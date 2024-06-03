@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "make the best financial decisions",
+    "subheadline": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+    "ctaButtons": [
+      {
+        "text": "Get Started",
+        "link": "/get-started",
+        "icon": ""
+      },
+      {
+        "text": "Watch Video",
+        "link": "https://youtube.com"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "budgeting intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "sparkle"
+    },
+    {
+      "title": "Personalized Insights",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "box"
+    },
+    {
+      "title": "Secure Cloud Sync",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "package"
+    }
+  ],
+  "advantages": [
+    {
+      "title": "Clever Notifications",
+      "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+      "icon": "notification"
+    },
+    {
+      "title": "Fully Customizable",
+      "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+      "icon": "sparkle"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Alex Johnson",
+      "feedback": "This app has revolutionized how I manage my daily tasks. Highly recommend!",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Emily Davis",
+      "feedback": "The personalized insights have been a game-changer for me.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Michael Smith",
+      "feedback": "I love the secure cloud sync feature. It gives me peace of mind.",
+      "avatar": "https://via.placeholder.com/50"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Financial Accounting App?",
+      "answer": "The Financial Accounting App is a comprehensive tool designed to manage your financial transactions, generate reports, and offer personalized insights to help you make informed financial decisions."
+    },
+    {
+      "question": "How secure is my data?",
+      "answer": "Your data security is our top priority. We use advanced encryption techniques and secure cloud storage to ensure your financial information is protected at all times."
+    },
+    {
+      "question": "Can I sync my data across multiple devices?",
+      "answer": "Yes, you can securely sync your data across all your devices, ensuring you have access to your financial information anytime, anywhere."
+    },
+    {
+      "question": "What kind of financial reports can I generate?",
+      "answer": "You can generate a variety of financial reports including income statements, balance sheets, cash flow statements, and expense reports."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a 30-day free trial for new users to explore the app's features and benefits before committing to a subscription plan."
+    },
+    {
+      "question": "How can I contact customer support?",
+      "answer": "You can contact our customer support team via email at support@financialapp.com or through the in-app chat feature available in the app."
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Standard",
+      "price": "$4.99/month",
+      "features": [
+        "Smart Reminders",
+        "Personalized Insights",
+        "Secure Cloud Sync"
+      ]
+    },
+    {
+      "plan": "Pro",
+      "price": "$9.99/month",
+      "features": [
+        "Smart Reminders",
+        "Personalized Insights",
+        "Secure Cloud Sync",
+        "Priority Support"
+      ]
+    },
+    {
+      "plan": "Enterprise",
+      "price": "$29.99/month",
+      "features": [
+        "Smart Reminders",
+        "Personalized Insights",
+        "Secure Cloud Sync",
+        "Priority Support",
+        "Custom Integrations"
+      ]
+    }
+  ]
+}
